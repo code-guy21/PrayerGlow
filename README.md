@@ -1,6 +1,6 @@
-# Halo
+# PrayerGlow
 
-Halo is a comprehensive Catholic faith platform designed to support and inspire users in their spiritual journey. With features like a guided virtual Rosary, Bible study tools, church activity finder, and spiritual growth tracking, Halo offers an interactive and engaging experience for users to deepen their faith and stay connected with their church community.
+PrayerGlow is a comprehensive Catholic faith platform designed to support and inspire users in their spiritual journey. With features like a guided virtual Rosary, Bible study tools, church activity finder, and spiritual growth tracking, Halo offers an interactive and engaging experience for users to deepen their faith and stay connected with their church community.
 
 ## Table of Contents
 
